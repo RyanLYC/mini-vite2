@@ -1,0 +1,17 @@
+{
+  "name": "mini-vite2",
+  "version": "0.0.1",
+  "license": "ISC",
+  "scripts": {
+    "dev": "node ./vite.js"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vue/compiler-dom": "^3.0.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "koa": "^2.13.1",
+    "opn": "^6.0.0"
+  }
+}
